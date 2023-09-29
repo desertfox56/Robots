@@ -128,5 +128,5 @@ EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587  # для использования TLS, 465 для SSL
 EMAIL_USE_TLS = True  
 EMAIL_USE_SSL = False  
-EMAIL_HOST_USER = 'alexej.ivanov1084736@gmail.com'
-EMAIL_HOST_PASSWORD = 'agyi wuxr nckw yybm'
+EMAIL_HOST_USER = ''
+EMAIL_HOST_PASSWORD = ''
